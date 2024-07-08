@@ -29,7 +29,7 @@ extension.
  Pyqrcode Module – This Module helps to generate a QR 
 Code. 
 2. Create the GUI Window using tkinter
-![image](https://github.com/Jhansi-1234/-TECHSTRAVER-_DATA_SCIENCE_WEEK1/assets/143017817/a90f3e1c-992e-4484-95c4-0f813355944c)
+![image](https://github.com/Jhansi-1234/-TECHSTRAVER-_DATA_SCIENCE_WEEK1/assets/143017817/29784a19-4d36-403e-b771-d8784e6194b2)
 # WEEK 1
  # CODING QUESTIONS
  WRITE A PROGRAM TO CREATE, DELETE,REVERSE
