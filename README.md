@@ -1,4 +1,4 @@
-![Screenshot 2024-07-08 142809](https://github.com/Jhansi-1234/-TECHSTRAVER-_DATA_SCIENCE_WEEK1/assets/143017817/661b2dd1-8272-44cc-85fa-bc63911119c5)# Project 1 : Password Generator 
+# Project 1 : Password Generator 
 A password is a combination of lowercase, uppercase, symbols, and 
 digits. An ideal or a strong password contains a combination of these 
 four. 
@@ -29,7 +29,6 @@ extension.
  Pyqrcode Module – This Module helps to generate a QR 
 Code. 
 2. Create the GUI Window using tkinter
-
 ![image](https://github.com/Jhansi-1234/-TECHSTRAVER-_DATA_SCIENCE_WEEK1/assets/143017817/a90f3e1c-992e-4484-95c4-0f813355944c)
 # WEEK 1
  # CODING QUESTIONS
