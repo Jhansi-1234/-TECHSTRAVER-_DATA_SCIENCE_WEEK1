@@ -1,0 +1,34 @@
+# lists
+['a', 'b', 'c', 'd', 'e']
+[1, 2, 3, 'john']
+['a', 'b', 'c', 'd', 'e', 'f']
+reversed list using in-built functions
+['f', 'e', 'd', 'c', 'b', 'a']
+['f', 'e', 'd', 'c', 'b', 'a']
+['a', 'b', 'c', 'd', 'e', 'f']
+[]
+# dictionaries
+{'name': 'jhan', 'age': 20}
+{'name': 'jhan', 'age': 20, 'salary': 100000}
+{'name': 'jhan', 'age': 20, 'salary': 100000, 'city': 'hyderabad'}
+{'name': 'jhan', 'age': 20, 'salary': 100000, 'city': 'hyderabad', 'Mobile Number': 9563214855}
+{'jhan': 'name', 20: 'age', 100000: 'salary', 'hyderabad': 'city', 9563214855: 'Mobile Number'}
+{'name': 'jhan', 'age': 20, 'salary': 100000, 'city': 'hyderabad'}
+hyderabad
+{'name': 'jhan', 'age': 20, 'salary': 100000}
+{}
+# sets
+{1, 2, 3, 4, 5}
+{1, 2, 3, 4, 5, 6}
+{1, 2, 3, 4, 5, 6, 10, 11, (7, 8, 9)}
+{1, 2, 3, 4, 5, 6, 10, 11}
+Reversed set
+11,10,6,5,4,3,2,1
+removing set
+set()
+#tuples
+(1, 2, 3, 4)
+appending tuple
+(1, 2, 3, 4, 5)
+reversing a tuple
+(5, 4, 3, 2, 1)
